@@ -1,0 +1,6 @@
+{
+  "name": "Quds HR",
+  "description": "نظام الموارد البشرية الشامل والمهني المخصص لخطوط وبثق وحقن البلاستيك بمصنع القدس للتقنيات البلاستيكية بمدينة السادات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
